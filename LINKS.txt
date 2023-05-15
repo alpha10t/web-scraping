@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=Xz514u4V_ts
+Scraping Dynamic JavaScript Websites - Beautiful Soup Python
+
+https://www.youtube.com/watch?v=8Uxxu0-dAKQ
+Scrape Dynamically loaded websites with python | python webscraping technique 2020 | python project
+
+https://www.youtube.com/watch?v=OXUTKfIVfuU
+Python webscraping project : book store website
+
